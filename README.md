@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning angular and springboot 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dont xd
-- 😄 Pronouns: ...
 - ⚡ Fun fact: coding is life
 
 <!---
